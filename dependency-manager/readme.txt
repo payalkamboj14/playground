@@ -2,4 +2,4 @@ The project dependecy-manager solves the problem mentioned at http://rabbit.eng.
 
 Instructions to test the program :
 1. Checkout the code.
-2. Run the class main.test.manager.DependencyManagerTest
+2. Run the class test.java.manager.DependencyManagerTest
