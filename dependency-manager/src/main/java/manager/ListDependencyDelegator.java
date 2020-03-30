@@ -3,10 +3,6 @@
  */
 package main.java.manager;
 
-import java.util.List;
-import java.util.Map;
-
-import main.java.model.Item;
 import main.java.model.DependencyGraph;
 
 /**
